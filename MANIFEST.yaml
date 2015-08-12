@@ -1,0 +1,7 @@
+---
+  name: 'test2'
+  maintainer: 'Jasper Lievisse Adriaanse'
+  email: 'j@jasper.la'
+  version: '0.1.0'
+  architecture:
+    - 'x86_64'
