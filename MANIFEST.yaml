@@ -3,5 +3,6 @@
   maintainer: 'Jasper Lievisse Adriaanse'
   email: 'j@jasper.la'
   version: '0.1.0'
+  destination: '/tmp/crane/3'
   architecture:
     - 'x86_64'
